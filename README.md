@@ -14,3 +14,9 @@
 
 ## 🎮 플레이 영상
 [![Play Video](https://img.youtube.com/vi/RYuDsiSaGSA/0.jpg)](https://youtu.be/RYuDsiSaGSA)
+
+---
+
+## 🏗️ 개발 정보
+- Engine: **Unreal Engine 4.27**
+- Platform: **PC**
